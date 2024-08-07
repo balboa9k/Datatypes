@@ -1,0 +1,23 @@
+
+
+java:S1192!"GDefine a constant instead of duplicating this literal "* long" 4 times.(ÈœÃûÿÿÿÿ8Øí•ë’2J$a7ad3cb9-89ef-4576-b59c-7a4d90463c12
+
+java:S1192 "FDefine a constant instead of duplicating this literal "* int" 3 times.(ƒ±õòıÿÿÿÿ8Øí•ë’2J$65e006db-c6f6-4fdc-bed7-1a3496dd9ebc
+•
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8°î•ë’2J$53572b02-e7e7-42ae-999e-98feda18ff15
+m	java:S106"+Replace this use of System.out by a logger.(ÚÆÊ¹8Å“ë’2J$bd35f97d-e1d1-4fa0-924d-6ee1c09b7bca
+r	java:S106"+Replace this use of System.out by a logger.(«Â¸ƒøÿÿÿÿ8³î•ë’2J$f4666f7c-821e-4745-9568-ee4b7ffadf31
+m	java:S106"+Replace this use of System.out by a logger.(Ó¹òÇ8³î•ë’2J$ef5a857f-01df-4c1f-a495-0b52af59b086
+m	java:S106"+Replace this use of System.out by a logger.(™˜´8´î•ë’2J$86c14731-248e-4171-8d4a-46daddf521d9
+r	java:S106 "+Replace this use of System.out by a logger.(ƒ±õòıÿÿÿÿ8´î•ë’2J$3b83bca5-638f-470b-8a60-ba5070b650f6
+r	java:S106!"+Replace this use of System.out by a logger.(ÈœÃûÿÿÿÿ8´î•ë’2J$7c808a36-9af5-429d-b583-285822faf9aa
+m	java:S106#"+Replace this use of System.out by a logger.(™˜´8´î•ë’2J$a10fc287-f11e-4158-b239-5e31298b61cd
+r	java:S106$"+Replace this use of System.out by a logger.(ƒ±õòıÿÿÿÿ8´î•ë’2J$a642a498-0d87-45eb-b08d-c6f023dc356f
+r	java:S106%"+Replace this use of System.out by a logger.(ÈœÃûÿÿÿÿ8´î•ë’2J$4f0e095b-d995-4f59-a1ce-d2aa21593293
+r	java:S106'"+Replace this use of System.out by a logger.(ƒ±õòıÿÿÿÿ8µî•ë’2J$1b379b78-3e7b-4bca-b463-21cbbfda40e0
+r	java:S106("+Replace this use of System.out by a logger.(ÈœÃûÿÿÿÿ8µî•ë’2J$5fb31637-d431-4e8a-9913-560fd37653a8
+r	java:S106*"+Replace this use of System.out by a logger.(ÈœÃûÿÿÿÿ8µî•ë’2J$1596bbdb-2813-44ac-8ad9-63ce73b38580
+w
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8Æ“ë’2J$5df9fdf6-1a80-4aa0-8ebf-c2f878b52508
+f
+java:S1128"Remove this duplicated import.(ÒÜÅ¸úÿÿÿÿ8Ùµë’2J$11c527f9-cdad-43b8-99c2-b3a99aa6ec83
