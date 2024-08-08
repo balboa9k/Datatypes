@@ -1,23 +1,23 @@
 
 
-java:S1192!"GDefine a constant instead of duplicating this literal "* long" 4 times.(ÈœÃûÿÿÿÿ8Øí•ë’2J$a7ad3cb9-89ef-4576-b59c-7a4d90463c12
+java:S1192!"GDefine a constant instead of duplicating this literal "* long" 4 times.(ÈœÃûÿÿÿÿ8Øí•ë’2J$ab384103-65df-43b2-9986-920c53bd9c1c
 
-java:S1192 "FDefine a constant instead of duplicating this literal "* int" 3 times.(ƒ±õòıÿÿÿÿ8Øí•ë’2J$65e006db-c6f6-4fdc-bed7-1a3496dd9ebc
+java:S1192 "FDefine a constant instead of duplicating this literal "* int" 3 times.(ƒ±õòıÿÿÿÿ8Øí•ë’2J$32606d66-964f-44a7-909e-19ab670341da
 •
-java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8°î•ë’2J$53572b02-e7e7-42ae-999e-98feda18ff15
-m	java:S106"+Replace this use of System.out by a logger.(ÚÆÊ¹8Å“ë’2J$bd35f97d-e1d1-4fa0-924d-6ee1c09b7bca
-r	java:S106"+Replace this use of System.out by a logger.(«Â¸ƒøÿÿÿÿ8³î•ë’2J$f4666f7c-821e-4745-9568-ee4b7ffadf31
-m	java:S106"+Replace this use of System.out by a logger.(Ó¹òÇ8³î•ë’2J$ef5a857f-01df-4c1f-a495-0b52af59b086
-m	java:S106"+Replace this use of System.out by a logger.(™˜´8´î•ë’2J$86c14731-248e-4171-8d4a-46daddf521d9
-r	java:S106 "+Replace this use of System.out by a logger.(ƒ±õòıÿÿÿÿ8´î•ë’2J$3b83bca5-638f-470b-8a60-ba5070b650f6
-r	java:S106!"+Replace this use of System.out by a logger.(ÈœÃûÿÿÿÿ8´î•ë’2J$7c808a36-9af5-429d-b583-285822faf9aa
-m	java:S106#"+Replace this use of System.out by a logger.(™˜´8´î•ë’2J$a10fc287-f11e-4158-b239-5e31298b61cd
-r	java:S106$"+Replace this use of System.out by a logger.(ƒ±õòıÿÿÿÿ8´î•ë’2J$a642a498-0d87-45eb-b08d-c6f023dc356f
-r	java:S106%"+Replace this use of System.out by a logger.(ÈœÃûÿÿÿÿ8´î•ë’2J$4f0e095b-d995-4f59-a1ce-d2aa21593293
-r	java:S106'"+Replace this use of System.out by a logger.(ƒ±õòıÿÿÿÿ8µî•ë’2J$1b379b78-3e7b-4bca-b463-21cbbfda40e0
-r	java:S106("+Replace this use of System.out by a logger.(ÈœÃûÿÿÿÿ8µî•ë’2J$5fb31637-d431-4e8a-9913-560fd37653a8
-r	java:S106*"+Replace this use of System.out by a logger.(ÈœÃûÿÿÿÿ8µî•ë’2J$1596bbdb-2813-44ac-8ad9-63ce73b38580
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8°î•ë’2J$a64d00c3-64f4-4d00-9653-f3acbb601e0b
+m	java:S106"+Replace this use of System.out by a logger.(ÚÆÊ¹8Å“ë’2J$deace497-2de0-42a3-a174-ba22d77a1bca
+r	java:S106"+Replace this use of System.out by a logger.(«Â¸ƒøÿÿÿÿ8³î•ë’2J$79f4fd29-e402-499c-91e6-029dadf7dd56
+m	java:S106"+Replace this use of System.out by a logger.(Ó¹òÇ8³î•ë’2J$967876bc-adee-4595-9600-d979ef936330
+m	java:S106"+Replace this use of System.out by a logger.(™˜´8´î•ë’2J$79f007ca-bdab-4bcb-9aa6-903d3c915845
+r	java:S106 "+Replace this use of System.out by a logger.(ƒ±õòıÿÿÿÿ8´î•ë’2J$b5375b6d-b6c3-4c82-8879-aa07ad4e3489
+r	java:S106!"+Replace this use of System.out by a logger.(ÈœÃûÿÿÿÿ8´î•ë’2J$f55b23bd-ff57-47ec-b1ca-bbb77507b0f6
+m	java:S106#"+Replace this use of System.out by a logger.(™˜´8´î•ë’2J$a7e016ff-971b-42be-ba73-c46b09e8156f
+r	java:S106$"+Replace this use of System.out by a logger.(ƒ±õòıÿÿÿÿ8´î•ë’2J$8ae5375b-ce26-4721-bcb5-9abad166a1e1
+r	java:S106%"+Replace this use of System.out by a logger.(ÈœÃûÿÿÿÿ8´î•ë’2J$28aa4b3a-aed3-49e8-880c-70f974335f88
+r	java:S106'"+Replace this use of System.out by a logger.(ƒ±õòıÿÿÿÿ8µî•ë’2J$8d79e9a6-6b5f-42ce-8c86-6e3f8cf352e8
+r	java:S106("+Replace this use of System.out by a logger.(ÈœÃûÿÿÿÿ8µî•ë’2J$af1f1238-21fe-4e24-9642-dfefdbf72e85
+r	java:S106*"+Replace this use of System.out by a logger.(ÈœÃûÿÿÿÿ8µî•ë’2J$cffa2222-e739-4504-8e65-6586d1fa3c35
 w
-java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8Æ“ë’2J$5df9fdf6-1a80-4aa0-8ebf-c2f878b52508
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8Æ“ë’2J$026c5747-f494-44df-8326-4d4b152e505f
 f
-java:S1128"Remove this duplicated import.(ÒÜÅ¸úÿÿÿÿ8Ùµë’2J$11c527f9-cdad-43b8-99c2-b3a99aa6ec83
+java:S1128"Remove this duplicated import.(ÒÜÅ¸úÿÿÿÿ8Ùµë’2J$3a8003e9-9e74-4587-803c-0b69a41ec4b7
